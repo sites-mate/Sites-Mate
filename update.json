@@ -1,7 +1,7 @@
 {
-	"has_new_version": true,
 	"version_name":"1.0.2",
 	"update_log":"1，添加删除信用卡接口\r\n2，添加vip认证\r\n3，区分自定义消费，一个小时不限制。\r\n4，添加放弃任务接口，小时内不生成。\r\n5，消费任务手动生成。",
 	"apk_size":"32M",
+	"md5":"",
 	"force_update":false
 }
