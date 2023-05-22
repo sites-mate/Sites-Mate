@@ -1,4 +1,4 @@
-# Supported sites
+# Supported sites(From yt-dlp:https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
  - **0000studio:archive**
  - **0000studio:clip**
  - **17live**
