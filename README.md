@@ -34,8 +34,16 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
 
 ### Download Android APK File
-- If you are unsure about your phone's CPU architecture, please choose to install the universal version.
- [app-universal-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-universal-release.apk)
+
+- [app-universal-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-universal-release.apk) If you are unsure about your phone's CPU architecture, use this.
+
+- [app-arm64-v8a-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-arm64-v8a-release.apk)
+
+- [app-armeabi-v7a-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-armeabi-v7a-release.apk)
+
+- [app-x86-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-x86-release.apk)
+
+- [app-x86_64-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-x86_64-release.apk)
 
 
 
