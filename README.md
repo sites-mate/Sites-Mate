@@ -13,25 +13,15 @@ Take control of your video browsing and downloading experience with Sites Mate -
 Here are some ideas to get you started:
 
 - 🔭 Browsing
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
 - 🌱 I’m currently learning ...
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
-
-```HTML
-<video width="320" height="240" controls="" preload="none" poster="封面">
-    <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
-</video>
-```
-
-<video  width="320" height="240" id="video" controls="" preload="none" poster="封面">
-   <source id="mp4" src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
-</video>
 
 
 
