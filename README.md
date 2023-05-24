@@ -12,23 +12,23 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
 ### Here are some ideas to get you started:
 
-- 🔭 Download
+- 🔭 Download-----------------------------------------------------------
 
  [![download](https://res.cloudinary.com/marcomontalbano/image/upload/v1684940240/video_to_markdown/images/youtube--m75YWB9iVmE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=m75YWB9iVmE "download")
 
-- 🌱 Check VPN and User Agent
+- 🌱 Check VPN and User Agent-------------------------------------------
 
  [![check vpn and ua](https://res.cloudinary.com/marcomontalbano/image/upload/v1684940066/video_to_markdown/images/youtube--MugFnLuvK4U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=MugFnLuvK4U "check vpn and ua")
 
-- 👯 Show More Sites Navigation
+- 👯 Show More Sites Navigation-----------------------------------------
 
  [![more sites](https://res.cloudinary.com/marcomontalbano/image/upload/v1684940289/video_to_markdown/images/youtube--BSifRWHzhd0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=BSifRWHzhd0 "more sites")
 
-- 🤔 Supported Sites and Retry After Failed
+- 🤔 Supported Sites and Retry After Failed-----------------------------
 
  [![support and retry](https://res.cloudinary.com/marcomontalbano/image/upload/v1684940337/video_to_markdown/images/youtube--wOzZ6fcstTk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wOzZ6fcstTk "support and retry")
 
-- 💬 Show File Chooser
+- 💬 Show File Chooser--------------------------------------------------
 
  [![file chooser](https://res.cloudinary.com/marcomontalbano/image/upload/v1684940420/video_to_markdown/images/youtube--eHvw8go-D8g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=eHvw8go-D8g "file chooser")
 
