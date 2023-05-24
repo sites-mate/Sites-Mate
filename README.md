@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </video>
 ```
 
-<video id="video" controls="" preload="none" poster="封面">
+<video  width="320" height="240" id="video" controls="" preload="none" poster="封面">
    <source id="mp4" src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
 </video>
 
