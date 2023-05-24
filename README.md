@@ -10,18 +10,26 @@ Never miss out on your desired videos again. With Sites Mate, you can convenient
 
 Take control of your video browsing and downloading experience with Sites Mate - the all-in-one solution for video enthusiasts. Get ready to explore the vast world of online videos and unlock a new level of convenience and entertainment. Download Sites Mate now and embark on a thrilling video journey like never before.
 
-Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
-- 🔭 Browsing
- [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
-- 🌱 I’m currently learning ...
- [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Download
 
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
+
+- 🌱 Check VPN and User Agent
+
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
+
+- 👯 Show More Sites Navigation
+
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
+
+- 🤔 Retry After Failed
+
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
+
+- 💬 Show File Chooser
+
+ [![test](https://res.cloudinary.com/marcomontalbano/image/upload/v1684938981/video_to_markdown/images/youtube--3wQBsFftbv8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3wQBsFftbv8 "test")
 
 
