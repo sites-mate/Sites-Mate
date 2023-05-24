@@ -33,3 +33,17 @@ Take control of your video browsing and downloading experience with Sites Mate -
  [![file chooser](https://res.cloudinary.com/marcomontalbano/image/upload/v1684940420/video_to_markdown/images/youtube--eHvw8go-D8g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=eHvw8go-D8g "file chooser")
 
 
+### Download Android APK File
+- If you are unsure about your phone's CPU architecture, please choose to install the universal version.
+ [app-universal-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-universal-release.apk)
+
+
+
+
+
+
+
+
+
+
+
