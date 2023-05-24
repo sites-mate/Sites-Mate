@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```HTML
+<video width="320" height="240" controls="" preload="none" poster="封面">
+    <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
+</video>
+```
+
 <video id="video" controls="" preload="none" poster="封面">
    <source id="mp4" src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
 </video>
+
+
 
