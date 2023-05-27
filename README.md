@@ -31,7 +31,7 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
   - ### 🔭 Download-----------------------------------------------------------
 
-           [![download](https://res.cloudinary.com/marcomontalbano/image/upload/v1685088542/video_to_markdown/images/video--4c55f37a702092c46319f94cb6e032ab-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/Download.mp4 "download")
+           ![download](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif?raw=true)
 
   - ### 🌱 Check VPN and User Agent-------------------------------------------
 
