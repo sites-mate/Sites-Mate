@@ -27,33 +27,6 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
 
 
-## Here are some ideas to get you started:
-
-![](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif)
-
-  - ### 🔭 Download-----------------------------------------------------------
-
-           ![](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif)
-
-  - ### 🌱 Check VPN and User Agent-------------------------------------------
-
-           [![check vpn and ua](https://res.cloudinary.com/marcomontalbano/image/upload/v1685088316/video_to_markdown/images/video--3a7683f1ca607593d8e1e3c5d08d6847-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/Check%20VPN%20and%20User%20Agent.mp4 "check vpn and ua")
-
-  - ### 👯 Show More Sites Navigation-----------------------------------------
-
-           [![show more sites](https://res.cloudinary.com/marcomontalbano/image/upload/v1685088615/video_to_markdown/images/video--4b69a43226aa712f77546fa02584e947-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/Show%20More%20SItes.mp4 "show more sites")
-
-  - ### 🤔 Supported Sites and Retry After Failed-----------------------------
-
-           [![supported and retry](https://res.cloudinary.com/marcomontalbano/image/upload/v1685088683/video_to_markdown/images/video--5e61967abcf214c57862851b3f32bb0f-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/Supported%20and%20retry.mp4 "supported and retry")
-
-  - ### 💬 Show File Chooser--------------------------------------------------
-
-           [![show file chooser](https://res.cloudinary.com/marcomontalbano/image/upload/v1685088728/video_to_markdown/images/video--b01eb7032baf8f6f75c47830dbdb51ef-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/Choose%20path.mp4 "show file chooser")
-
-
-
-
 
 
 
