@@ -29,6 +29,8 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
 ## Here are some ideas to get you started:
 
+![](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif)
+
   - ### 🔭 Download-----------------------------------------------------------
 
            ![](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif)
