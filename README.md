@@ -4,7 +4,7 @@ Sites Mate is yet to be released on Google Play due to Google's policy which pro
 
 Sites Mate is the best Youtube downloader App for Android phones. Download videos from Youtube, Facebook, Instagram and most pron sites for Free. Download Sites Mate App for Android and enjoy your favourite videos on the go!
 
-Sites Mate will be your ultimate companion for video browsing and navigation on Android. With Sites Mate, you can effortlessly explore and navigate through various video websites, providing you with a seamless browsing experience. Not only that, but Sites Mate also empowers you with the ability to download videos from over 1000 supported video sites[Supported Sites](https://github.com/sites-mate/Sites-Mate/blob/main/supported-sites.md).
+Sites Mate will be your ultimate companion for video browsing and navigation on Android. With Sites Mate, you can effortlessly explore and navigate through various video websites, providing you with a seamless browsing experience. Not only that, but Sites Mate also empowers you with the ability to download videos from over 1000 supported video sites. [Check Supported Sites Here](https://github.com/sites-mate/Sites-Mate/blob/main/supported-sites.md)
 
 Discover and access your favorite video content with ease, thanks to Sites Mate's intuitive interface and comprehensive video site support. Whether you're into movies, TV shows, music videos, or any other form of online video entertainment, Sites Mate has got you covered.
 
