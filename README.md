@@ -31,7 +31,7 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
   - ### 🔭 Download-----------------------------------------------------------
 
-           ![download](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif?raw=true)
+           ![](https://github.com/sites-mate/Sites-Mate/blob/main/sm_download.gif)
 
   - ### 🌱 Check VPN and User Agent-------------------------------------------
 
