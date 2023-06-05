@@ -21,7 +21,7 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
   - [app-x86-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86-release-1.0.3.apk)
 
-  - [app-x86_64-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86_64-release-1.0.3.apk.apk)
+  - [app-x86_64-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86_64-release-1.0.3.apk)
 
 
 
