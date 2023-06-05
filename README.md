@@ -15,15 +15,13 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
 ## Download Android APK File
 
-  - [app-universal-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-universal-release.apk) If you are unsure about your phone's CPU architecture, use this.
+  - [app-arm64-v8a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-arm64-v8a-release-1.0.3.apk)
 
-  - [app-arm64-v8a-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-arm64-v8a-release.apk)
+  - [app-armeabi-v7a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-armeabi-v7a-release-1.0.3.apk)
 
-  - [app-armeabi-v7a-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-armeabi-v7a-release.apk)
+  - [app-x86-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86-release-1.0.3.apk)
 
-  - [app-x86-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-x86-release.apk)
-
-  - [app-x86_64-release.apk](https://media.githubusercontent.com/media/sites-mate/Sites-Mate/main/app-x86_64-release.apk)
+  - [app-x86_64-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86_64-release-1.0.3.apk.apk)
 
 
 
