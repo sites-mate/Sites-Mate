@@ -15,6 +15,8 @@ Take control of your video browsing and downloading experience with Sites Mate -
 
 ## Download Android APK File
 
+  - [![alt text](https://play-lh.googleusercontent.com/ycfHf3ZFdCH2WnwvFBoZ5jTkFKsiilRHZjo929l1Wak_jf0NqjUksLit71GTiEvZKw=w480-h960-rw "Google Play")](https://play.google.com/store/apps/details?id=com.warrior.mate.gp)
+
   - [app-arm64-v8a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-arm64-v8a-release.apk)
 
   - [app-armeabi-v7a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-armeabi-v7a-release.apk)
