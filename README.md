@@ -12,10 +12,13 @@ Never miss out on your desired videos again. With Sites Mate, you can convenient
 
 Take control of your video browsing and downloading experience with Sites Mate - the all-in-one solution for video enthusiasts. Get ready to explore the vast world of online videos and unlock a new level of convenience and entertainment. Download Sites Mate now and embark on a thrilling video journey like never before.
 
+## Download From Market
+  
+  - [Google Play Store](https://play.google.com/store/apps/details?id=com.warrior.mate.gp)
+       [![alt text](https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0 "Google Play")](https://play.google.com/store/apps/details?id=com.warrior.mate.gp)
+
 
 ## Download Android APK File
-
-  - [![alt text](https://play-lh.googleusercontent.com/ycfHf3ZFdCH2WnwvFBoZ5jTkFKsiilRHZjo929l1Wak_jf0NqjUksLit71GTiEvZKw=w480-h960-rw "Google Play")](https://play.google.com/store/apps/details?id=com.warrior.mate.gp)
 
   - [app-arm64-v8a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-arm64-v8a-release.apk)
 
