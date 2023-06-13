@@ -1,7 +1,5 @@
 ## Hi there 👋 Welcome to Sites Mate.
 
-Sites Mate is yet to be released on Google Play due to Google's policy which prohibits the downloading of YouTube videos. Sites Mate is safe and definitely not a virus or malware.
-
 Sites Mate is the best Youtube downloader App for Android phones. Download videos from Youtube, Facebook, Instagram and most pron sites for Free. Download Sites Mate App for Android and enjoy your favourite videos on the go!
 
 Sites Mate will be your ultimate companion for video browsing and navigation on Android. With Sites Mate, you can effortlessly explore and navigate through various video websites, providing you with a seamless browsing experience. Not only that, but Sites Mate also empowers you with the ability to download videos from over 1000 supported video sites. [Check Supported Sites Here](https://github.com/sites-mate/Sites-Mate/blob/main/supported-sites.md)
@@ -15,18 +13,18 @@ Take control of your video browsing and downloading experience with Sites Mate -
 ## Download From Market
   
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.warrior.mate.gp)
-       [![alt text](https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0 "Google Play")](https://play.google.com/store/apps/details?id=com.warrior.mate.gp)
+       [![alt text](https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0 "Google Play")](https://play.google.com/store/apps/details?id=com.sites.mate.gp)
 
 
 ## Download Android APK File
 
-  - [app-arm64-v8a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-arm64-v8a-release.apk)
+  - [app-arm64-v8a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-arm64-v8a-release.apk)
 
-  - [app-armeabi-v7a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-armeabi-v7a-release.apk)
+  - [app-armeabi-v7a-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-armeabi-v7a-release.apk)
 
-  - [app-x86-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86-release.apk)
+  - [app-x86-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-x86-release.apk)
 
-  - [app-x86_64-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-default-x86_64-release.apk)
+  - [app-x86_64-release.apk](https://raw.githubusercontent.com/sites-mate/Sites-Mate/main/app-x86_64-release.apk)
 
 
 
